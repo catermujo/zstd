@@ -6,6 +6,8 @@
 *.h text eol=lf
 
 # Denote files that should not be modified.
+*.a binary
+*.lib binary
 *.odt binary
 *.png binary
 
